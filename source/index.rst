@@ -12,8 +12,8 @@ This is test documentation using Sphinx
    :hidden:
    :caption: Options
 
-   Options/justlogic
-   Options/justcode
+   Options/justlogic.rst
+   Options/justcode.rst
 
 .. toctree::
    :maxdepth: 2
